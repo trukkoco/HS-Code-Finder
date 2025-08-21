@@ -1,0 +1,8 @@
+{
+  "last_query": "car accessories",
+  "chapter_idx": 0,
+  "heading_idx": 0,
+  "use_emb": true,
+  "auto_search": true,
+  "topk": 5
+}
